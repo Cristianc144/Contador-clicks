@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Contador-clicks/build/static/css/main.c23b8883.css",
+    "main.js": "/Contador-clicks/build/static/js/main.2de9ba32.js",
+    "static/js/787.5571eb18.chunk.js": "/Contador-clicks/build/static/js/787.5571eb18.chunk.js",
+    "static/media/freecodecamp-logo.png": "/Contador-clicks/build/static/media/freecodecamp-logo.06ef51b18c2b4bb99954.png",
+    "index.html": "/Contador-clicks/build/index.html",
+    "main.c23b8883.css.map": "/Contador-clicks/build/static/css/main.c23b8883.css.map",
+    "main.2de9ba32.js.map": "/Contador-clicks/build/static/js/main.2de9ba32.js.map",
+    "787.5571eb18.chunk.js.map": "/Contador-clicks/build/static/js/787.5571eb18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c23b8883.css",
+    "static/js/main.2de9ba32.js"
+  ]
+}
